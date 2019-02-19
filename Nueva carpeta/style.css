@@ -1,0 +1,31 @@
+
+.titleLit{
+    color: #030156;
+}
+.titleCin{
+    color:#3d1000;
+}
+.cine {
+    color: maroon;
+    background-color:aqua;
+    border: 5px double teal;
+
+}
+
+.literatura {
+    color: navy;
+    background-color: yellow;
+    border: 5px double orange;
+}
+
+ body, head {
+    background:#86ff23;
+ }
+
+button {
+    font-size: 20px;
+    width: 150px;
+    height: 60px;
+    background-color: #fff600;
+
+}
